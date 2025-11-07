@@ -1,3 +1,4 @@
+package src.main.java.AgusO25;
 public class Conversor {
     private String codigoBase;
     private String codigoTarjeta;
