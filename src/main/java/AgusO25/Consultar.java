@@ -1,4 +1,4 @@
-package src.main.java.AgusO25;
+package AgusO25;
 
 
 
